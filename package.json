@@ -1,0 +1,29 @@
+{
+  "name": "clase8_entrega",
+  "version": "1.0.0",
+  "description": "clase8_entrega",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maoforero/clase8_entrega.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maoforero/clase8_entrega/issues"
+  },
+  "homepage": "https://github.com/maoforero/clase8_entrega#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "router": "^1.3.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
